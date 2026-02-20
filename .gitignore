@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+# by Loreto
+*.o
+*.obj
+**/.pio/*
+**/.venv/*
+**/build/*
